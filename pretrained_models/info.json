@@ -1,0 +1,11 @@
+{
+	"alice": {
+		"name_en": "Tendou Alice",
+		"name_zh": "天童爱丽丝",
+        "title": "Blue Archive-天童アリス",
+        "cover": "cover.png",
+		"sid": 10,
+		"example": "今日はいい天気ですね。",
+		"language": "Japanese"
+    }
+}
